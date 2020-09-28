@@ -1,0 +1,2 @@
+# Wine-Dataset-for-Clustering
+I used K-means and clustered the wines based on their chemical constituents. I standardise the data to have a zero mean and unit variance.I used PCA and reduced the dimensionality of data. To determine ideal number of clusters i applied elbow method which has given me 3 cluster. All the metrics indicates that 3 is the best cluster number. The silhouette score obtained is 0.56.
